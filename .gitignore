@@ -1,0 +1,6 @@
+*.tfstate
+*.tfstate.backup
+talosconfig
+kubeconfig
+.env
+*.raw.xz
